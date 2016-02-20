@@ -28,6 +28,6 @@ Please install the PCRE2 library from [here](http://www.pcre.org/current/doc/htm
 
 <b>Contact</b>
 
-Please contact Stefan @ cn.linkedin.com/in/stefanqin if you find any bugs.
+Please contact Stefan @ [cn.linkedin.com/in/stefanqin] if you find any bugs.
 
 Happy shell hacking!
