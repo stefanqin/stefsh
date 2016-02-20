@@ -17,7 +17,9 @@ This is a simple shell implementation of the Bourne-Again-Shell with very limite
 Built-in commands include "echo, cd, help, exit".
 
 This was a personal project to integrate my knowledge of regular expressions, C, and multi-process programming.
+
 It supports quotations - single and double - to group commands, as in: command "multiple commands here".
+
 It supports backslashes to escape quotations and other backslashes in commands.
 
 <b>Requirements</b>
