@@ -21,9 +21,11 @@ It supports quotations - single and double - to group commands, as in: command "
 It supports backslashes to escape quotations and other backslashes in commands.
 
 <b>Requirements</b>
+
 Please install the PCRE2 library from [here](http://www.pcre.org/current/doc/html/pcre2.html) before running the program.
 
 <b>Contact</b>
+
 Please contact Stefan @ cn.linkedin.com/in/stefanqin if you find any bugs.
 
 Happy shell hacking!
