@@ -6,6 +6,7 @@ stefsh : $(objects)
 
 $(objects) : main.h
 
+#.PHONY disassociates clean from a file
 .PHONY : clean
 clean :
 	rm $(objects)
